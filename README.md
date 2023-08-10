@@ -1,5 +1,5 @@
 # CropCare: A Platform for Sustainable Farming in Bangladesh
-#Software Requirement Engineering
+# Software Requirement Engineering
 
 ## Introduction
 CropCare is an innovative mobile platform designed to revolutionize farming practices in Bangladesh by promoting sustainability, efficiency, and knowledge-sharing among farmers. Developed to address the unique challenges faced by the agricultural community, CropCare offers an integrated solution that combines cutting-edge technology, real-time data analysis, and community engagement.
